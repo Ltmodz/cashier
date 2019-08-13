@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "offline-angular", "offline-angular\offline-angular.csproj", "{440CA826-4090-4FEA-A362-762174ACAEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440CA826-4090-4FEA-A362-762174ACAEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440CA826-4090-4FEA-A362-762174ACAEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440CA826-4090-4FEA-A362-762174ACAEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440CA826-4090-4FEA-A362-762174ACAEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E455FFC6-A542-4C4F-B55E-598F92A0D1E8}
+	EndGlobalSection
+EndGlobal
